@@ -13,19 +13,21 @@
 
 </head>
 <body>
-	<h1>OSM TEST</h1>
+	<p>OSM TEST</p>
 	<div id="map"></div>
 	<script>
 	// Provide your access token
 	L.mapbox.accessToken = 'pk.eyJ1IjoiZmx5aGFyZCIsImEiOiJjaWVtZGF1dXQwMDExc2trbTk4ZGhlMnRiIn0.ViVTsKyELz4am1AscNo4qA';
 	// Create a map in the div #map
-	L.mapbox.map('map', 'flyhard.ciemdau5w000zsmm3dc55zbna');
+	var map = L.mapbox.map('map', 'flyhard.ciemdau5w000zsmm3dc55zbna').setView([35.552854,139.5111933 ], 15);
 	
-		var map = L.map('map').setView([35.552854,139.5111933 ], 15, 'zoom');
+		//var map = L.map('map').setView([35.552854,139.5111933 ], 15, 'zoom');
 		
+		/*
 		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 		    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 		}).addTo(map);
+		*/
 		
 	</script>
 </body>
