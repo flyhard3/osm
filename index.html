@@ -1,15 +1,26 @@
 <html>
 <head>
 <title>OSM TEST PAGE</title>
+<!-- Mapbox -->
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.mapbox.com/mapbox.js/v2.2.2/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v2.2.2/mapbox.css' rel='stylesheet' />
+<!-- Leaflet -->
 <link rel="stylesheet"
 	href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
 <script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
 <link rel="stylesheet" href="css/osm_1.css" />
+
 </head>
 <body>
 	<h1>OSM TEST</h1>
 	<div id="map"></div>
 	<script>
+	// Provide your access token
+	L.mapbox.accessToken = 'pk.eyJ1IjoiZmx5aGFyZCIsImEiOiJjaWVtZGF1dXQwMDExc2trbTk4ZGhlMnRiIn0.ViVTsKyELz4am1AscNo4qA';
+	// Create a map in the div #map
+	L.mapbox.map('map', 'flyhard.ciemdau5w000zsmm3dc55zbna');
+	
 		var map = L.map('map').setView([35.552854,139.5111933 ], 15, 'zoom');
 		
 		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
