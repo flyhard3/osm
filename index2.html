@@ -1,4 +1,7 @@
 <html>
+<!-- 
+Clean and simple version of mapbox testing.
+ -->
 <head>
 <title>OSM TEST PAGE</title>
 <!-- Mapbox -->
@@ -9,12 +12,7 @@
 	rel='stylesheet' />
 	<script src="./geoJsonSample.js" >//</script>
 
-<!-- Leaflet -->
-<!--   link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" /-->
-<!--   script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script-->
-
 <link rel="stylesheet" href="css/osm_1.css" />
-
 
 </head>
 <body>
@@ -23,16 +21,18 @@
 	<script>
 		// Provide your access token
 		L.mapbox.accessToken = 'pk.eyJ1IjoiZmx5aGFyZCIsImEiOiJjaWVtZGF1dXQwMDExc2trbTk4ZGhlMnRiIn0.ViVTsKyELz4am1AscNo4qA';
-		// Create a map in the div #map
-		// var map = L.mapbox.map('map', 'mapbox.streets').setView([35.552854,139.5111933 ], 15);
 
-		var map = L.mapbox.map('map', 'flyhard.ciemdau5w000zsmm3dc55zbna').setView([ 35.5796, 139.5308 ], 15);
+		var map = L.mapbox.map('map', 'flyhard.ciemdau5w000zsmm3dc55zbna',
+				{
+		    scrollWheelZoom: false
+		}).setView([ 35.5796, 139.5308 ], 15);
 		var layers = {
 			Streets : L.mapbox.tileLayer('mapbox.streets'),
 			Outdoors : L.mapbox.tileLayer('mapbox.outdoors'),
 			Satellite : L.mapbox.tileLayer('mapbox.satellite'),
 			Markers: L.mapbox.tileLayer('mapbox.dc-markers')
 		};
+		
 		layers.Streets.addTo(map);
 		L.control.layers(layers).addTo(map);
 
