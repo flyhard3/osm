@@ -51,6 +51,19 @@
 				}, 
 				"geometry":{
 					"type":"Point",
+					"coordinates":[-73.9960092,40.7217242]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
 					"coordinates":[-73.9359413,40.8381511]
 					}}
 					,
@@ -461,6 +474,19 @@
 				{"type":"Feature",
 				"properties":{ 
 				
+					"name":"Battery Park",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.0189,40.7052]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
 					"name":"Carl Shultz Park",
 				
 				"amenity":"drinking_water"
@@ -474,6 +500,32 @@
 				{"type":"Feature",
 				"properties":{ 
 				
+					"name":"Central Park 1",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9728,40.7749]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Central Park 2",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9751,40.7655]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
 					"name":"Central Park 3",
 				
 				"amenity":"drinking_water"
@@ -481,6 +533,45 @@
 				"geometry":{
 					"type":"Point",
 					"coordinates":[-73.9714,40.7725]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Columbus Park",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.0003,40.7149]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"East 20th Street",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9818,40.7359]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"East River Park",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9737,40.7226]
 					}}
 					,
 					
@@ -507,6 +598,32 @@
 				"geometry":{
 					"type":"Point",
 					"coordinates":[-73.9679,40.7967]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Hudson Beach",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9725,40.8024]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.0066,40.7299]
 					}}
 					,
 					
@@ -552,6 +669,162 @@
 				{"type":"Feature",
 				"properties":{ 
 				
+					"name":"Riverside Park 10",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9875,40.7816]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Riverside Park 11",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9885,40.7803]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Riverside Park 12",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9893,40.7776]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Riverside Park 13",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9914,40.7762]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Riverside Park 2",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9737,40.8011]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Riverside Park 3",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9767,40.7976]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Riverside Park 4",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.975,40.7968]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Riverside Park 5",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9782,40.7933]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Riverside Park 6",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9809797,40.7899749]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Riverside Park 7",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9821,40.7872]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Riverside Park 8",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9847,40.7834]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Riverside Park 9",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9861,40.7811]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
 					"name":"Robert Mosses Playground",
 				
 				"amenity":"drinking_water"
@@ -578,6 +851,19 @@
 				{"type":"Feature",
 				"properties":{ 
 				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9911,40.7226]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
 					"name":"Sol Bloom Playground",
 				
 				"amenity":"drinking_water"
@@ -585,6 +871,45 @@
 				"geometry":{
 					"type":"Point",
 					"coordinates":[-73.9688,40.7897]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Tompkins Square Park 1",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9809,40.7264]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Tompkins Square Park 2",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.982,40.7269]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Washington Square",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.99701,40.7303993]
 					}}
 					,
 					
@@ -649,6 +974,58 @@
 				}, 
 				"geometry":{
 					"type":"Point",
+					"coordinates":[-73.9733033,40.7451252]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9727781,40.7242435]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9723696,40.7243241]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9721577,40.7253435]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
 					"coordinates":[-73.9224259,40.7798067]
 					}}
 					,
@@ -675,7 +1052,150 @@
 				}, 
 				"geometry":{
 					"type":"Point",
+					"coordinates":[-74.0167304,40.7158115]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.0167125,40.7159995]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9753536,40.7366895]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.0130416,40.7187923]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.0133112,40.7202989]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.0151089,40.7205451]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.0068705,40.7434405]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.0069798,40.7446784]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.0046513,40.7479611]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
 					"coordinates":[-73.9651776,40.7776414]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9775627,40.768392]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9770002,40.7688845]
 					}}
 					,
 					
@@ -779,7 +1299,46 @@
 				}, 
 				"geometry":{
 					"type":"Point",
+					"coordinates":[-73.9923314,40.7748668]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
 					"coordinates":[-73.955617,40.8096143]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Staten Island ferry",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.0128326,40.7011583]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9770343,40.7682755]
 					}}
 					,
 					
@@ -1260,7 +1819,72 @@
 				}, 
 				"geometry":{
 					"type":"Point",
+					"coordinates":[-73.977066,40.76925]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.97795,40.769836]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.97195,40.778786]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
 					"coordinates":[-73.9575578,40.8259362]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9884893,40.7417523]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9876266,40.7425158]
 					}}
 					,
 					
@@ -1384,6 +2008,58 @@
 				{"type":"Feature",
 				"properties":{ 
 				
+					"name":"Walt Whitman Park",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.989307,40.6977816]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Bryant Park",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9829589,40.7542249]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.99087,40.696998]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"Bryant Park",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.016746,40.702885]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
 					"name":"drinking_water",
 				
 				"amenity":"drinking_water"
@@ -1442,7 +2118,59 @@
 				}, 
 				"geometry":{
 					"type":"Point",
+					"coordinates":[-73.990393,40.735345]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9830223,40.788578]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
 					"coordinates":[-73.8363695,40.7096946]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.0114506,40.7266865]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-74.011593,40.7257973]
 					}}
 					,
 					
@@ -1482,6 +2210,19 @@
 				"geometry":{
 					"type":"Point",
 					"coordinates":[-73.9603475,40.7107581]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9760846,40.7144646]
 					}}
 					,
 					
@@ -1741,6 +2482,19 @@
 				}, 
 				"geometry":{
 					"type":"Point",
+					"coordinates":[-73.9724437,40.7700997]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
 					"coordinates":[-73.9687304,40.7710868]
 					}}
 					,
@@ -1755,6 +2509,58 @@
 				"geometry":{
 					"type":"Point",
 					"coordinates":[-73.9655242,40.7755967]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9759214,40.7737155]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9768864,40.7717884]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.9777088,40.7714958]
+					}}
+					,
+					
+				{"type":"Feature",
+				"properties":{ 
+				
+					"name":"drinking_water",
+				
+				"amenity":"drinking_water"
+				}, 
+				"geometry":{
+					"type":"Point",
+					"coordinates":[-73.977031,40.7670911]
 					}}
 					,
 					

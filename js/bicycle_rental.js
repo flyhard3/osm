@@ -6,18681 +6,4979 @@
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"bicycle_rental",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8641014,40.7496594]
+					"coordinates":[-73.9682854,40.7756818]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Gray's Bicycles & Accessories",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9646678,40.8017277]
+					"coordinates":[-73.8319342,40.706777]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"bicycle_rental",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9674049,40.8033287]
+					"coordinates":[-73.9894049,40.7408049]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 10 St & Avenue A",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9617445,40.7157806]
+					"coordinates":[-73.9814201,40.7274079]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - St Marks Pl & 1 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8854636,40.8463932]
+					"coordinates":[-73.9856495,40.7277913]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - St Marks Pl & 2 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8904308,40.7470195]
+					"coordinates":[-73.9871396,40.7284186]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 7 St & Avenue A",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9533568,40.778635]
+					"coordinates":[-73.9837986,40.7262179]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Allen St & Rivington St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8837496,40.7475812]
+					"coordinates":[-73.9899782,40.7201958]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Canal St & Rutgers St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9411331,40.8415851]
+					"coordinates":[-73.9899003,40.7142749]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 58 St & 3 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9652008,40.7633043]
+					"coordinates":[-73.9672447,40.7609576]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 11 Ave & W 59 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9576621,40.7197783]
+					"coordinates":[-73.990541,40.771522]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 51 St & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.905511,40.8793607]
+					"coordinates":[-73.9804205,40.7606597]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 31 St & 3 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9579521,40.717514]
+					"coordinates":[-73.9796607,40.7439431]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 53 St & Lexington Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9394071,40.8417051]
+					"coordinates":[-73.9706943,40.7582807]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8173128,40.7073885]
+					"coordinates":[-73.9595401,40.7586602]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 12 Ave & W 40 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9547553,40.7184926]
+					"coordinates":[-74.0027767,40.760875]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 12 Ave & W 40 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9706877,40.751622]
+					"coordinates":[-74.0027767,40.760875]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 9 Ave & W 16 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8277873,40.757609]
+					"coordinates":[-74.0044317,40.7420654]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Washington St & Gansevoort St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9546039,40.7328372]
+					"coordinates":[-74.008119,40.739323]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 9 Ave & W 14 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8996848,40.710756]
+					"coordinates":[-74.0055087,40.7405826]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 46 St & 11 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.7711953,40.7641967]
+					"coordinates":[-73.9966744,40.7634138]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Central Park S & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9574857,40.7297707]
+					"coordinates":[-73.9763415,40.7659094]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"CitiBike W 59 St & Ave 10",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9640199,40.7975308]
+					"coordinates":[-73.9885758,40.7699369]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 60 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9574344,40.7656979]
+					"coordinates":[-73.9819184,40.7691551]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"bicycle_rental",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9626858,40.7670314]
+					"coordinates":[-74.0019153,40.7505435]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 10 Ave & W 28 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9407156,40.8396197]
+					"coordinates":[-74.001768,40.7506639]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Blazing Saddles",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9512881,40.7703642]
+					"coordinates":[-74.0034045,40.7062233]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Mercer St & Spring St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.831591,40.7621737]
+					"coordinates":[-73.999496,40.7236274]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 6 St & Avenue B",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.875806,40.7030803]
+					"coordinates":[-73.9818542,40.7245373]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 1 Ave & E 44 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9700254,40.7973823]
+					"coordinates":[-73.969053,40.7500199]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Barclay St & Church St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8985806,40.8272062]
+					"coordinates":[-74.0102023,40.7129122]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Cadman Plaza E & Tillary St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9713839,40.7479547]
+					"coordinates":[-73.9901489,40.6959768]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Jay St & Tech Pl",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8848533,40.8460934]
+					"coordinates":[-73.987167,40.695065]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Maiden Ln & Pearl St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9552828,40.7301679]
+					"coordinates":[-74.0073185,40.7070646]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 39 St & 2 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9501308,40.7181476]
+					"coordinates":[-73.9734419,40.7478037]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W Broadway & Spring St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8467871,40.9014628]
+					"coordinates":[-74.001547,40.7249099]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Franklin St & W Broadway",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9512635,40.7824054]
+					"coordinates":[-74.0066012,40.7191219]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"bicycle_rental",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8825004,40.7478544]
+					"coordinates":[-73.9798899,40.7440361]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 39 St & 3 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8289335,40.7582448]
+					"coordinates":[-73.9760488,40.7489006]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 27 St & 7 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8857166,40.7475173]
+					"coordinates":[-73.993915,40.746647]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 1 Ave & E 15 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.82261,40.8269108]
+					"coordinates":[-73.9816556,40.7322185]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 1 Ave & E 18 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9586392,40.7148518]
+					"coordinates":[-73.9805442,40.7338122]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 1 Ave & E 30 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9461063,40.7030414]
+					"coordinates":[-73.9753608,40.7414439]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 1 Ave & E 44 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.861104,40.7294038]
+					"coordinates":[-73.969053,40.7500199]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 10 Ave & W 28 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8631233,40.7303379]
+					"coordinates":[-74.001768,40.7506639]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 11 Ave & W 27 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9621752,40.7132775]
+					"coordinates":[-74.005226,40.751396]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 11 Ave & W 41 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9534027,40.7802023]
+					"coordinates":[-73.9988422,40.760301]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 11 Ave & W 59 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9393504,40.7047267]
+					"coordinates":[-73.990541,40.771522]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 12 Ave & W 40 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.954408,40.7305722]
+					"coordinates":[-74.0027767,40.760875]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 2 Ave & E 31 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8366843,40.7180975]
+					"coordinates":[-73.9770606,40.742909]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 2 Ave & E 58 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9498212,40.7843782]
+					"coordinates":[-73.9647847,40.7602026]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 21 St & Queens Plaza North",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.77134,40.7641065]
+					"coordinates":[-73.9433579,40.7532596]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 31 St & Thomson Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8918202,40.8271012]
+					"coordinates":[-73.9354038,40.7446974]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 44 Dr & Jackson Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.961185,40.7969014]
+					"coordinates":[-73.9432635,40.7471823]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 45 Rd & 11 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8575209,40.8615238]
+					"coordinates":[-73.9497723,40.7470859]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 46 Ave & 5 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.94945,40.7786937]
+					"coordinates":[-73.95451,40.74731]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 5 Ave & E 29 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9542558,40.710491]
+					"coordinates":[-73.9868308,40.7451677]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 6 Ave & Broome St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.832184,40.8471894]
+					"coordinates":[-74.004704,40.724399]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 6 Ave & Canal St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8756353,40.8293877]
+					"coordinates":[-74.0056644,40.722438]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 6 Ave & W 33 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.937694,40.8437516]
+					"coordinates":[-73.988484,40.7490127]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 8 Ave & W 31 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9700661,40.7892325]
+					"coordinates":[-73.9944421,40.7509673]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 8 Ave & W 33 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9235164,40.8176546]
+					"coordinates":[-73.993934,40.751551]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 8 Ave & W 52 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9656865,40.710435]
+					"coordinates":[-73.9851615,40.7637074]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 9 Ave & W 14 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.875818,40.8292182]
+					"coordinates":[-74.0055087,40.7405826]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 9 Ave & W 16 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9259176,40.7442345]
+					"coordinates":[-74.0044317,40.7420654]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 9 Ave & W 18 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9194376,40.7430169]
+					"coordinates":[-74.0036644,40.7431745]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 9 Ave & W 22 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.829268,40.7586982]
+					"coordinates":[-74.0019714,40.7454973]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 9 Ave & W 45 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8296217,40.7587179]
+					"coordinates":[-73.9912551,40.7601925]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - 9 St & 44 Rd",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8866048,40.7472848]
+					"coordinates":[-73.9521,40.74966]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Allen St & E Houston St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8742463,40.8296791]
+					"coordinates":[-73.989111,40.722055]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Allen St & Hester St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.7673561,40.7605907]
+					"coordinates":[-73.9919076,40.7160587]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Allen St & Rivington St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9497764,40.7959665]
+					"coordinates":[-73.9899782,40.7201958]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Avenue D & E 12 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9575012,40.7298659]
+					"coordinates":[-73.9742249,40.7258061]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Avenue D & E 3 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9577568,40.7314239]
+					"coordinates":[-73.9779317,40.7208283]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Avenue D & E 8 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.949178,40.7850504]
+					"coordinates":[-73.9757481,40.7236836]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Bank St & Hudson St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9521694,40.7427086]
+					"coordinates":[-74.0061803,40.7365289]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Bank St & Washington St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9612836,40.8012929]
+					"coordinates":[-74.0085921,40.7361967]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Banker St & Meserole Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.944991,40.7187687]
+					"coordinates":[-73.95621,40.72606]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Barclay St & Church St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8367491,40.8434567]
+					"coordinates":[-74.0102023,40.7129122]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Barrow St & Hudson St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8631139,40.748983]
+					"coordinates":[-74.0067444,40.7317243]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Bayard St & Baxter St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9507641,40.7217217]
+					"coordinates":[-73.9997437,40.7160212]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Bedford Ave & Nassau Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9619144,40.7136891]
+					"coordinates":[-73.9521232,40.7231165]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Bedford Ave & S 9 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8548463,40.8976269]
+					"coordinates":[-73.9640896,40.7085307]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Berry St & N 8 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9596309,40.7629676]
+					"coordinates":[-73.9585252,40.7190095]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Bialystoker Pl & Delancey St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8534058,40.8980285]
+					"coordinates":[-73.9826121,40.7162264]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Boerum St & Broadway",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9616553,40.7140898]
+					"coordinates":[-73.9497652,40.7053808]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broad St & Bridge St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9329847,40.7755755]
+					"coordinates":[-74.011678,40.7036518]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & Battery Pl",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9556837,40.7299914]
+					"coordinates":[-74.0136171,40.7046333]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & Berry St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9211504,40.8143154]
+					"coordinates":[-73.9652506,40.7104455]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & E 14 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8559223,40.7566678]
+					"coordinates":[-73.9907414,40.7345457]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & E 22 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8675377,40.8562805]
+					"coordinates":[-73.9895511,40.7403432]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 24 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8897416,40.8342026]
+					"coordinates":[-73.9891508,40.7423543]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 29 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9601047,40.718303]
+					"coordinates":[-73.9885572,40.7462009]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 32 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9599982,40.7704637]
+					"coordinates":[-73.9880842,40.7485486]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 36 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9667544,40.803957]
+					"coordinates":[-73.9876543,40.7509771]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 37 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9600266,40.7652569]
+					"coordinates":[-73.9875352,40.7517263]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 39 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9492213,40.7850669]
+					"coordinates":[-73.9872162,40.7529964]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 41 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9222019,40.8171734]
+					"coordinates":[-73.9865803,40.7551356]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 49 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9681099,40.799562]
+					"coordinates":[-73.9844266,40.7606468]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 51 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9399359,40.8465908]
+					"coordinates":[-73.9833618,40.7622883]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 53 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8960755,40.8556474]
+					"coordinates":[-73.9826813,40.7634406]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 55 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8903191,40.7468904]
+					"coordinates":[-73.9819234,40.7652654]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 58 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.940255,40.8413651]
+					"coordinates":[-73.9816933,40.7669532]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & W 60 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9378819,40.8437764]
+					"coordinates":[-73.9819184,40.7691551]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Broadway & Whipple St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9363308,40.799119]
+					"coordinates":[-73.9437303,40.7016657]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Brooklyn Bridge Park - Pier 2",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9582247,40.7086155]
+					"coordinates":[-73.99712,40.69878]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Bus Slip & State St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9406174,40.8282236]
+					"coordinates":[-74.013942,40.701907]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Bushwick Ave & Powers St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9582769,40.7132071]
+					"coordinates":[-73.9410001,40.7124766]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Cadman Plaza E & Red Cross Pl",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9545122,40.7311623]
+					"coordinates":[-73.9897177,40.6999176]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Cadman Plaza E & Tillary St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.919439,40.8164551]
+					"coordinates":[-73.9901489,40.6959768]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Cadman Plaza W & Pierrepont St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8959557,40.8166833]
+					"coordinates":[-73.9905274,40.694757]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Cadman Plaza West & Montague St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9406451,40.8295466]
+					"coordinates":[-73.990539,40.69383]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Canal St & Rutgers St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9589663,40.716787]
+					"coordinates":[-73.9899003,40.7142749]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Carlton Ave & Flushing Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9579193,40.7180437]
+					"coordinates":[-73.973736,40.697787]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Carlton Ave & Park Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9188537,40.816452]
+					"coordinates":[-73.9735557,40.6958071]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Carmine St & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9711106,40.7958971]
+					"coordinates":[-74.0021499,40.730386]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Catherine St & Monroe St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9714972,40.7951807]
+					"coordinates":[-73.9968262,40.7111744]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Center Blvd & Borden Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9673036,40.8034796]
+					"coordinates":[-73.96044,40.74161]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Central Park S & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9189066,40.7463926]
+					"coordinates":[-73.9763415,40.7659094]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Centre St & Chambers St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.7608155,40.7615215]
+					"coordinates":[-74.0046073,40.7127327]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Centre St & Worth St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9220681,40.8172831]
+					"coordinates":[-74.0023448,40.7149481]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Cherry St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.889377,40.7469911]
+					"coordinates":[-73.9794815,40.7121991]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Christopher St & Greenwich St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9534003,40.7784978]
+					"coordinates":[-74.0071138,40.7329155]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Clark St & Henry St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9101711,40.8333283]
+					"coordinates":[-73.9934456,40.6976013]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Clermont Ave & Park Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9702443,40.7621639]
+					"coordinates":[-73.9712967,40.695734]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Cleveland Pl & Spring St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9403158,40.8300102]
+					"coordinates":[-73.9972031,40.7218158]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Cliff St & Fulton St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8293623,40.7585364]
+					"coordinates":[-74.0053006,40.708235]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Clinton Ave & Flushing Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8630013,40.749315]
+					"coordinates":[-73.9698685,40.69794]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Clinton Ave & Myrtle Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9608176,40.7143864]
+					"coordinates":[-73.968896,40.693261]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Clinton St & Grand St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.956681,40.8027597]
+					"coordinates":[-73.9870295,40.7155951]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Clinton St & Tillary St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8286348,40.7560439]
+					"coordinates":[-73.991218,40.696192]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Columbia Heights & Cranberry St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9596496,40.8155759]
+					"coordinates":[-73.9954806,40.7003787]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Columbia St & Rivington St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9574701,40.7296754]
+					"coordinates":[-73.9801656,40.7173997]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Devoe St & Leonard St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9492574,40.7139258]
+					"coordinates":[-73.9479246,40.7134866]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Division Ave & Hooper St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9255305,40.7028048]
+					"coordinates":[-73.9544167,40.7069125]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Division Ave & Marcy Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8784334,40.8287128]
+					"coordinates":[-73.9579678,40.707087]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Division St & Bowery",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8664855,40.7576137]
+					"coordinates":[-73.9970468,40.7141309]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Driggs Ave & Lorimer St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.938121,40.8431672]
+					"coordinates":[-73.9504154,40.7217913]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Driggs Ave & N Henry St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9550667,40.7649037]
+					"coordinates":[-73.94308,40.72325]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Duane St & Greenwich St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9625638,40.7150974]
+					"coordinates":[-74.0104554,40.7174875]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 10 St & 5 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9586505,40.7722802]
+					"coordinates":[-73.9951013,40.7333197]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 10 St & Avenue A",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.956499,40.7662218]
+					"coordinates":[-73.9814201,40.7274079]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 11 St & 1 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.84453,40.8955402]
+					"coordinates":[-73.9842673,40.7295384]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 11 St & 2 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9574738,40.7319844]
+					"coordinates":[-73.9867238,40.7304731]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 11 St & Broadway",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9617527,40.7643051]
+					"coordinates":[-73.9915804,40.7326179]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 12 St & 3 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9291374,40.7436025]
+					"coordinates":[-73.9888996,40.7322327]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 13 St & Avenue A",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8860508,40.84122]
+					"coordinates":[-73.9805725,40.7295536]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 14 St & Avenue B",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9613227,40.7686176]
+					"coordinates":[-73.9777243,40.7293869]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 15 St & 3 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8653442,40.8789249]
+					"coordinates":[-73.986923,40.734232]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 16 St & 5 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9569169,40.7174203]
+					"coordinates":[-73.9923897,40.7372619]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 16 St & Irving Pl",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9396195,40.8407746]
+					"coordinates":[-73.9875856,40.7352428]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 17 St & Broadway",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8281801,40.7553774]
+					"coordinates":[-73.990093,40.7370498]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 19 St & 3 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9632484,40.762247]
+					"coordinates":[-73.9847377,40.7362453]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 2 St & 2 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9339689,40.8534493]
+					"coordinates":[-73.9906966,40.7250288]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 2 St & Avenue B",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9710461,40.7610635]
+					"coordinates":[-73.9836878,40.7221744]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 2 St & Avenue C",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.945368,40.745851]
+					"coordinates":[-73.980858,40.7208736]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 20 St & 2 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8578401,40.8999032]
+					"coordinates":[-73.9820503,40.7358768]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 20 St & FDR Drive",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9583727,40.8180814]
+					"coordinates":[-73.9757388,40.7331426]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 20 St & Park Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8837857,40.7475785]
+					"coordinates":[-73.9875197,40.7382743]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 23 St & 1 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9103196,40.8223605]
+					"coordinates":[-73.9780947,40.736502]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 24 St & Park Ave S",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9019602,40.8460625]
+					"coordinates":[-73.9860221,40.7409637]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 25 St & 1 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9672049,40.7107429]
+					"coordinates":[-73.9773866,40.7381765]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 25 St & 2 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9424419,40.7214522]
+					"coordinates":[-73.9797378,40.739126]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 27 St & 1 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9446166,40.7144407]
+					"coordinates":[-73.976806,40.739445]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 3 St & 1 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8595186,40.8416985]
+					"coordinates":[-73.9878341,40.7246772]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 30 St & Park Ave S",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9336227,40.7440608]
+					"coordinates":[-73.9830353,40.7444492]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 31 St & 3 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9573853,40.7291568]
+					"coordinates":[-73.9796607,40.7439431]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 32 St & Park Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8317677,40.8464006]
+					"coordinates":[-73.9819483,40.7457121]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 33 St & 2 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9332945,40.8555761]
+					"coordinates":[-73.976056,40.744023]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 33 St & 5 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9556025,40.7140108]
+					"coordinates":[-73.9849071,40.7476595]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 37 St & Lexington Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8317018,40.8463027]
+					"coordinates":[-73.978311,40.748238]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 39 St & 2 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9116241,40.8222325]
+					"coordinates":[-73.9734419,40.7478037]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 39 St & 3 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9446316,40.7145776]
+					"coordinates":[-73.9760488,40.7489006]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 4 St & 2 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9043337,40.841824]
+					"coordinates":[-73.9897804,40.7262807]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 40 St & 5 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.867555,40.855869]
+					"coordinates":[-73.9816324,40.7520623]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 43 St & 2 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8939635,40.7042897]
+					"coordinates":[-73.9712141,40.7502239]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 43 St & Vanderbilt Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9716019,40.7874126]
+					"coordinates":[-73.9779874,40.7532016]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 45 St & 3 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.7950471,40.7017077]
+					"coordinates":[-73.9728263,40.7525543]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 47 St & 1 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9599693,40.7704829]
+					"coordinates":[-73.9678438,40.7520686]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 47 St & Park Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8913816,40.8699567]
+					"coordinates":[-73.974987,40.7551027]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 5 St & Avenue C",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9158157,40.6991394]
+					"coordinates":[-73.9799547,40.7229921]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 51 St & 1 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.964437,40.7672208]
+					"coordinates":[-73.9659298,40.7545573]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 51 St & Lexington Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9184061,40.8161924]
+					"coordinates":[-73.9720784,40.7571476]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 52 St & 2 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9365574,40.7432445]
+					"coordinates":[-73.967416,40.756014]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 53 St & Lexington Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8448432,40.8956852]
+					"coordinates":[-73.9706943,40.7582807]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 53 St & Madison Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9550267,40.768993]
+					"coordinates":[-73.9740231,40.7597108]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 55 St & 2 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9125568,40.871336]
+					"coordinates":[-73.9660331,40.7579732]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 55 St & Lexington Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9622963,40.8052649]
+					"coordinates":[-73.9703137,40.7596809]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 56 St & Madison Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8886621,40.7472045]
+					"coordinates":[-73.972924,40.761628]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 58 St & 3 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8866659,40.7474166]
+					"coordinates":[-73.9672447,40.7609576]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 6 St & Avenue B",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9590494,40.7164933]
+					"coordinates":[-73.9818542,40.7245373]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 6 St & Avenue D",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9573566,40.7743383]
+					"coordinates":[-73.9766871,40.7222809]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 60 St & York Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9535698,40.7787257]
+					"coordinates":[-73.959223,40.759107]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 7 St & Avenue A",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9141795,40.818691]
+					"coordinates":[-73.9837986,40.7262179]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - E 9 St & Avenue C",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9565771,40.7170125]
+					"coordinates":[-73.9776875,40.7252131]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Elizabeth St & Hester St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9577665,40.7144809]
+					"coordinates":[-73.996375,40.71729]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Emerson Pl & Myrtle Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9660271,40.7710612]
+					"coordinates":[-73.9622356,40.6936314]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - FDR Drive & E 35 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8876117,40.7473188]
+					"coordinates":[-73.9712121,40.744219]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Forsyth St & Broome St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9713322,40.7949745]
+					"coordinates":[-73.9926629,40.718939]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Forsyth St & Canal St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8885179,40.7470808]
+					"coordinates":[-73.9942237,40.7158155]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Franklin Ave & Myrtle Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9423876,40.8118769]
+					"coordinates":[-73.958089,40.694528]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Franklin St & Dupont St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9402411,40.8287421]
+					"coordinates":[-73.95866,40.73564]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Franklin St & W Broadway",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.957629,40.8116557]
+					"coordinates":[-74.0066666,40.7191155]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Front St & Gold St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.7735981,40.7688429]
+					"coordinates":[-73.982578,40.70224]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Front St & Maiden Ln",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9359342,40.7608983]
+					"coordinates":[-74.0061257,40.7053095]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Front St & Washington St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9340498,40.7427572]
+					"coordinates":[-73.9894024,40.7025509]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Frost St & Meeker St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9601744,40.7108009]
+					"coordinates":[-73.94882,40.71764]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Fulton St & Broadway",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9604994,40.714255]
+					"coordinates":[-74.009447,40.711066]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Fulton St & William St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.7663628,40.7607588]
+					"coordinates":[-74.0065361,40.7095596]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Graham Ave & Grand St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8965688,40.8670632]
+					"coordinates":[-73.944024,40.711863]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Graham Ave & Herbert St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8540594,40.8869848]
+					"coordinates":[-73.9450038,40.719293]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Graham Ave & Withers St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.831813,40.7629178]
+					"coordinates":[-73.9448592,40.7169811]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Grand Army Plaza & Central Park S",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9687336,40.7504737]
+					"coordinates":[-73.9737147,40.7643971]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Grand St & Greene St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8892625,40.8375781]
+					"coordinates":[-74.0023474,40.7216548]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Grand St & Havemeyer St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8942041,40.8829508]
+					"coordinates":[-73.9569812,40.7128684]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Great Jones St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8870109,40.7546659]
+					"coordinates":[-73.9937903,40.7274342]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Greenpoint Ave & Manhattan Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8877127,40.7387937]
+					"coordinates":[-73.95394,40.73026]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Greenwich Ave & 8 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9655714,40.8004874]
+					"coordinates":[-74.0026376,40.7390169]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Greenwich Ave & Charles St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9707017,40.7891421]
+					"coordinates":[-74.000271,40.735238]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Greenwich St & N Moore St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9692409,40.7540282]
+					"coordinates":[-74.0102061,40.7204341]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Greenwich St & W Houston St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9643632,40.8106974]
+					"coordinates":[-74.008591,40.728846]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Greenwich St & Warren St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9408655,40.8295275]
+					"coordinates":[-74.0112198,40.715422]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Harrison St & Hudson St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9401434,40.8288711]
+					"coordinates":[-74.0090009,40.7187099]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"Citibike",
+					"name":"Citi Bike - Henry St & Grand St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9660337,40.757999]
+					"coordinates":[-73.981346,40.714215]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Hicks St & Montague St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8895392,40.747112]
+					"coordinates":[-73.9959507,40.6951285]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Howard St & Centre St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9618466,40.8020452]
+					"coordinates":[-73.9997334,40.7191054]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Hudson St & Reade St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.968978,40.7982287]
+					"coordinates":[-74.0091059,40.7162501]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Humboldt St & Varet St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9611643,40.8014905]
+					"coordinates":[-73.940636,40.7031724]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - India St & Manhattan Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9579832,40.7083794]
+					"coordinates":[-73.9550858,40.7323219]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Jackson Ave & 46 Rd",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9491496,40.7700338]
+					"coordinates":[-73.9473328,40.7452477]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Jay St & Tech Pl",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9476041,40.7476416]
+					"coordinates":[-73.987167,40.695065]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - John St & William St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9354357,40.8468437]
+					"coordinates":[-74.0072216,40.7086214]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Johnson St & Gold St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8239293,40.8283515]
+					"coordinates":[-73.9836246,40.6947488]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Kent Ave & N 7 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9554777,40.7140083]
+					"coordinates":[-73.9615023,40.7205766]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Kent Ave & S 11 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9585476,40.7171766]
+					"coordinates":[-73.968341,40.708273]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - LaGuardia Pl & W 3 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.7675057,40.7601216]
+					"coordinates":[-73.9981023,40.7291703]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Lafayette St & E 8 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8669307,40.7322654]
+					"coordinates":[-73.9907647,40.7302867]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Lafayette St & Jersey St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8903913,40.746885]
+					"coordinates":[-73.9956529,40.7245609]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Laight St & Hudson St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8278211,40.7539723]
+					"coordinates":[-74.0077178,40.7218538]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Leonard St & Bayard St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8510216,40.8982313]
+					"coordinates":[-73.94861,40.71928]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Leonard St & Boerum St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.7485074,40.7353624]
+					"coordinates":[-73.9464458,40.7058334]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Leonard St & Church St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9419916,40.8227898]
+					"coordinates":[-74.005549,40.717571]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Leonard St & Grand St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9041001,40.8787355]
+					"coordinates":[-73.947143,40.7110354]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Lexington Ave & E 24 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9576951,40.7644299]
+					"coordinates":[-73.9840921,40.7402588]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Lexington Ave & E 29 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9704282,40.7887363]
+					"coordinates":[-73.9821535,40.7431156]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Liberty St & Broadway",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9639203,40.7650564]
+					"coordinates":[-74.0104338,40.7090562]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Lispenard St & Broadway",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9508508,40.7238257]
+					"coordinates":[-74.0024721,40.7193923]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Little West St & 1 Pl",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9450042,40.7177401]
+					"coordinates":[-74.0167769,40.7056925]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Lorimer St & Broadway",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.918165,40.8153591]
+					"coordinates":[-73.948186,40.7041179]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - MacDougal St & Washington Sq",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9636049,40.8034648]
+					"coordinates":[-73.9985221,40.732264]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Madison St & Clinton St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9469539,40.7845554]
+					"coordinates":[-73.9877632,40.7126904]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Madison St & Montgomery St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9515012,40.7138142]
+					"coordinates":[-73.984844,40.713126]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Maiden Ln & Pearl St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9644471,40.710763]
+					"coordinates":[-74.0073185,40.7070646]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Market St & Cherry St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8288014,40.7569313]
+					"coordinates":[-73.994004,40.7107623]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - McGuinness Blvd & Eagle St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8973354,40.8168904]
+					"coordinates":[-73.95284,40.73555]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - McKibbin St & Manhattan Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9698921,40.7586533]
+					"coordinates":[-73.9440728,40.7051092]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Mercer St & Bleecker St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8677821,40.8547691]
+					"coordinates":[-73.9969509,40.7267945]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Mercer St & Spring St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8289946,40.7574107]
+					"coordinates":[-73.999496,40.7236274]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Meserole Ave & Manhattan Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9425713,40.8417725]
+					"coordinates":[-73.9529912,40.7270858]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Metropolitan Ave & Bedford Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9488881,40.7815809]
+					"coordinates":[-73.9602412,40.7153483]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Metropolitan Ave & Meeker Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.96278,40.7995039]
+					"coordinates":[-73.9523439,40.7141331]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Milton St & Franklin St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9576386,40.7307022]
+					"coordinates":[-73.95779,40.72906]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Montrose Ave & Bushwick Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8266587,40.7710099]
+					"coordinates":[-73.9401617,40.7076779]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Mott St & Prince St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9581211,40.733646]
+					"coordinates":[-73.9948001,40.7231796]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Murray St & West St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8763225,40.8290728]
+					"coordinates":[-74.013012,40.7149787]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Myrtle Ave & Lewis Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9679697,40.7630389]
+					"coordinates":[-73.9375693,40.6968196]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Myrtle Ave & Marcy Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9527338,40.7763758]
+					"coordinates":[-73.9495491,40.6953982]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Myrtle Ave & St Edwards St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9377734,40.8439273]
+					"coordinates":[-73.9770387,40.6932702]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - N 11 St & Wythe Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9402688,40.8300761]
+					"coordinates":[-73.9578236,40.7215327]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - N 12 St & Bedford Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8656511,40.8790239]
+					"coordinates":[-73.9548471,40.7207982]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - N 8 St & Driggs Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.7981059,40.7051496]
+					"coordinates":[-73.956001,40.7177459]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - N Henry St & Richardson St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9570481,40.7825614]
+					"coordinates":[-73.9424469,40.7192159]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Nassau Ave & Russell St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8433203,40.7218615]
+					"coordinates":[-73.94434,40.72557]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Nassau St & Navy St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9518428,40.7253259]
+					"coordinates":[-73.9806891,40.698399]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Norfolk St & Broome St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9472523,40.7452645]
+					"coordinates":[-73.9880208,40.7172274]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Norman Ave & Leonard St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9613105,40.7143124]
+					"coordinates":[-73.9506489,40.7258483]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Nostrand Ave & Myrtle Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9652031,40.71052]
+					"coordinates":[-73.9523811,40.6952701]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Old Fulton St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9378388,40.8435541]
+					"coordinates":[-73.9938361,40.7027716]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Old Slip & Front St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9612467,40.7965171]
+					"coordinates":[-74.0083868,40.7037992]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Park Ave & Marcus Garvey Blvd",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9544999,40.7367225]
+					"coordinates":[-73.941342,40.698617]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Park Ave & St Edwards St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8823404,40.8506635]
+					"coordinates":[-73.9780342,40.6960894]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Pearl St & Anchorage Pl",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9465418,40.8166465]
+					"coordinates":[-73.9876576,40.7028186]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Pearl St & Hanover Square",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8289087,40.7571976]
+					"coordinates":[-74.0092603,40.7047177]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Peck Slip & Front St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8655624,40.8785488]
+					"coordinates":[-74.00167,40.707873]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Perry St & Bleecker St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9068021,40.699986]
+					"coordinates":[-74.0048309,40.735354]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Pershing Square North",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.949467,40.7848667]
+					"coordinates":[-73.977706,40.751873]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Pershing Square South",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8994042,40.710248]
+					"coordinates":[-73.97791,40.751581]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Pike St & E Broadway",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9639333,40.7650318]
+					"coordinates":[-73.9929391,40.7140667]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Pike St & Monroe St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9689301,40.7626219]
+					"coordinates":[-73.9919304,40.7117311]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Pitt St & Stanton St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9527578,40.7425578]
+					"coordinates":[-73.9817802,40.7192608]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Queens Plaza North & Crescent St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8489369,40.876277]
+					"coordinates":[-73.9407372,40.7511017]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Railroad Ave & Kay Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9530139,40.7784894]
+					"coordinates":[-73.9710006,40.7053119]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Reade St & Broadway",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9592371,40.7163205]
+					"coordinates":[-74.0056279,40.7145045]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Rivington St & Chrystie St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8666899,40.7321295]
+					"coordinates":[-73.9919254,40.7211006]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Rivington St & Ridge St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.953014,40.7783329]
+					"coordinates":[-73.9832986,40.7185021]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - S 3 St & Bedford Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9665175,40.7577713]
+					"coordinates":[-73.962644,40.7126049]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - S 4 St & Wythe Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9149442,40.743387]
+					"coordinates":[-73.9659029,40.7128589]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - S 5 Pl & S 4 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9339154,40.7435998]
+					"coordinates":[-73.960876,40.710451]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Sands St & Navy St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9633085,40.7658973]
+					"coordinates":[-73.979927,40.699773]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Scholes St & Manhattan Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9644559,40.712381]
+					"coordinates":[-73.9448625,40.7087037]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Shevchenko Pl & E 7 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9683957,40.7551918]
+					"coordinates":[-73.990214,40.728145]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - South End Ave & Liberty St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9574227,40.7162237]
+					"coordinates":[-74.015756,40.711512]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - South St & Gouverneur Ln",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9031638,40.8435659]
+					"coordinates":[-74.0067023,40.7035538]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - South St & Whitehall St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9600492,40.7155577]
+					"coordinates":[-74.0123422,40.7012213]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Spruce St & Nassau St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9407654,40.7119245]
+					"coordinates":[-74.0055243,40.7114636]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - St James Pl & Oliver St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9482071,40.7227191]
+					"coordinates":[-73.9985119,40.7130792]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - St James Pl & Pearl St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9432126,40.8230511]
+					"coordinates":[-74.0001655,40.7111742]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - St Marks Pl & 1 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.920544,40.8168868]
+					"coordinates":[-73.9856495,40.7277913]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - St Marks Pl & 2 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.940667,40.8413845]
+					"coordinates":[-73.9871396,40.7284186]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Stagg St & Union Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9579994,40.7694434]
+					"coordinates":[-73.9509526,40.7087708]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Stanton St & Chrystie St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.943476,40.8234135]
+					"coordinates":[-73.9914754,40.7222935]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Stanton St & Mangin St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9666789,40.7147355]
+					"coordinates":[-73.9762894,40.7178214]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Suffolk St & Stanton St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.964214,40.7924504]
+					"coordinates":[-73.9851798,40.7206644]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Sullivan St & Washington Sq",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9671374,40.8037129]
+					"coordinates":[-73.9990607,40.7304775]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Union Ave & Jackson St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.965094,40.7637356]
+					"coordinates":[-73.952029,40.7160751]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Union Ave & Wallabout St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8625597,40.749954]
+					"coordinates":[-73.9503228,40.7002951]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - University Pl & E 14 St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9416857,40.8131172]
+					"coordinates":[-73.9920051,40.734927]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Vernon Blvd & 50 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8738784,40.8297838]
+					"coordinates":[-73.9541175,40.7423274]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Vesey Pl & River Terrace",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9373822,40.7487729]
+					"coordinates":[-74.0165835,40.7153379]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 11 St & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9131291,40.7487873]
+					"coordinates":[-73.9980042,40.7353243]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 13 St & 5 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8626896,40.7499404]
+					"coordinates":[-73.9945395,40.7354393]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 13 St & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9624101,40.7125887]
+					"coordinates":[-73.9970437,40.736494]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 13 St & 7 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9576742,40.7177746]
+					"coordinates":[-73.9999466,40.7378151]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 14 St & The High Line",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9695312,40.7602386]
+					"coordinates":[-74.0080301,40.7419514]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 15 St & 7 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.7967962,40.7040988]
+					"coordinates":[-73.9993178,40.7393554]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 16 St & The High Line",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9618214,40.7138373]
+					"coordinates":[-74.0068175,40.7433494]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 17 St & 8 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9602187,40.7156181]
+					"coordinates":[-74.0014975,40.741776]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 18 St & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9570697,40.7704365]
+					"coordinates":[-73.994564,40.739713]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 20 St & 11 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9411912,40.7471857]
+					"coordinates":[-74.007756,40.746745]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 20 St & 7 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8302178,40.8690194]
+					"coordinates":[-73.9972624,40.7423879]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 20 St & 8 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9707496,40.7936703]
+					"coordinates":[-74.0000403,40.7434534]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 21 St & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8626329,40.7494545]
+					"coordinates":[-73.9941556,40.7417397]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 22 St & 10 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9442633,40.7230098]
+					"coordinates":[-74.0045189,40.7469196]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 22 St & 8 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9243002,40.8178582]
+					"coordinates":[-73.9991536,40.7447515]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 24 St & 7 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9605777,40.7185963]
+					"coordinates":[-73.9952989,40.7448763]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 25 St & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9074151,40.8480405]
+					"coordinates":[-73.9914487,40.7439541]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 26 St & 10 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8257414,40.7437138]
+					"coordinates":[-74.0029503,40.7497178]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 26 St & 8 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9537468,40.7786434]
+					"coordinates":[-73.9972355,40.7473483]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 27 St & 7 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9560434,40.7299572]
+					"coordinates":[-73.993915,40.746647]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 29 St & 9 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9590795,40.7222794]
+					"coordinates":[-73.9983928,40.7500727]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 31 St & 7 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9465079,40.7464828]
+					"coordinates":[-73.9916,40.749156]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 33 St & 7 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9650776,40.7634756]
+					"coordinates":[-73.9909309,40.7502]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 34 St & 11 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8432141,40.8406372]
+					"coordinates":[-74.0021163,40.7559416]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 37 St & 10 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9161535,40.8169827]
+					"coordinates":[-73.9979009,40.7566036]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 37 St & 5 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9243905,40.7660483]
+					"coordinates":[-73.9833899,40.7503801]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 38 St & 8 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.969912,40.794538]
+					"coordinates":[-73.9913815,40.7546659]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 39 St & 9 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9588666,40.7751421]
+					"coordinates":[-73.9937222,40.7564582]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 41 St & 8 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9540228,40.781498]
+					"coordinates":[-73.9900262,40.7564055]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 42 St & 8 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8275869,40.7538702]
+					"coordinates":[-73.9909851,40.7575699]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 43 St & 10 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9409936,40.827705]
+					"coordinates":[-73.9946184,40.7600944]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 43 St & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9681574,40.7555183]
+					"coordinates":[-73.9831694,40.7552731]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 44 St & 5 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9549466,40.7185311]
+					"coordinates":[-73.9801444,40.7550025]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 45 St & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9315091,40.8587122]
+					"coordinates":[-73.9829115,40.7568001]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 45 St & 8 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9655216,40.8059274]
+					"coordinates":[-73.9885965,40.7592912]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 46 St & 11 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9714606,40.7878138]
+					"coordinates":[-73.9966744,40.7634138]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 47 St & 10 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9221333,40.8171541]
+					"coordinates":[-73.9930122,40.7626988]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 49 St & 8 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9444237,40.7142042]
+					"coordinates":[-73.9878821,40.7622721]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 51 St & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9599209,40.7183658]
+					"coordinates":[-73.9804205,40.7606597]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 52 St & 11 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8942861,40.7464824]
+					"coordinates":[-73.9939289,40.7672722]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 52 St & 5 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9577681,40.7176868]
+					"coordinates":[-73.9764852,40.7599226]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 52 St & 9 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9492682,40.7139895]
+					"coordinates":[-73.9878947,40.7646184]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 53 St & 10 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9368594,40.7596939]
+					"coordinates":[-73.9906173,40.7666967]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 54 St & 9 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9548469,40.716456]
+					"coordinates":[-73.9869051,40.7658494]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 56 St & 10 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9395664,40.8475046]
+					"coordinates":[-73.988639,40.768254]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 56 St & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.829579,40.8518421]
+					"coordinates":[-73.9772248,40.7634061]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W 59 St & 10 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.7809857,40.7575268]
+					"coordinates":[-73.988038,40.770513]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - W Broadway & Spring St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9594777,40.8011633]
+					"coordinates":[-74.001547,40.7249099]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Warren St & Church St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8676208,40.854251]
+					"coordinates":[-74.0091063,40.7147399]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Washington Ave & Park Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9604823,40.7090829]
+					"coordinates":[-73.9675104,40.6961023]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Washington Pl & 6 Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9662754,40.8083485]
+					"coordinates":[-74.0002639,40.7322412]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Washington Pl & Broadway",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9655171,40.7588579]
+					"coordinates":[-73.9940465,40.7290392]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Washington Square E",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9030901,40.8783524]
+					"coordinates":[-73.9957214,40.7304939]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Washington St & Gansevoort St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9564658,40.7784304]
+					"coordinates":[-74.008119,40.739323]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Water - Whitehall Plaza",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9588557,40.7088408]
+					"coordinates":[-74.0127234,40.7025507]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Watts St & Greenwich St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8982884,40.8896243]
+					"coordinates":[-74.0096597,40.7240555]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - West St & Chambers St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.7705763,40.7625953]
+					"coordinates":[-74.0132207,40.7175483]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - West Thames St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.8893218,40.8345727]
+					"coordinates":[-74.0171345,40.708347]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - William St & Pine St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9448282,40.8136238]
+					"coordinates":[-74.0088731,40.7071794]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Willoughby Ave & Tompkins Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9408274,40.7505148]
+					"coordinates":[-73.9462692,40.694254]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Willoughby Ave & Walworth St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9406484,40.8298293]
+					"coordinates":[-73.95382,40.6933172]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - Wythe Ave & Metropolitan Ave",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9445858,40.7151984]
+					"coordinates":[-73.963198,40.716887]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike - York St & Jay St",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9659739,40.7620365]
+					"coordinates":[-73.9865693,40.7014851]
 					}}
 					,
 					
 				{"type":"Feature",
 				"properties":{ 
 				
-					"name":"bicycle_parking",
+					"name":"Citi Bike",
 				
-				"amenity":"bicycle_parking"
+				"amenity":"bicycle_rental"
 				}, 
 				"geometry":{
 					"type":"Point",
-					"coordinates":[-73.9605612,40.768911]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9522333,40.7139957]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8315443,40.7620995]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8389833,40.7191547]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9542774,40.7659839]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8853477,40.7458755]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.971335,40.760951]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.916821,40.8183718]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.923372,40.8176188]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9404249,40.8453697]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9522344,40.7426729]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9081569,40.8736217]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9635192,40.7154571]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9288606,40.772258]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9461773,40.7983061]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9620933,40.8001624]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9229719,40.8167485]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9619908,40.767724]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9644986,40.8074614]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8937905,40.7471984]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8293749,40.7581978]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9614966,40.7140294]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8212585,40.8259431]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9062975,40.8767711]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9616602,40.7192739]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8630714,40.7485575]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9569434,40.7192835]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9590024,40.716754]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9586243,40.7723174]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.952501,40.7989868]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9635433,40.8104226]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9578035,40.7317101]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9706162,40.7619362]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9445743,40.7151341]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9353914,40.8044225]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.883074,40.8487293]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9645673,40.8072336]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7716801,40.7596524]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9516018,40.7740259]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9563183,40.7124993]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9546164,40.7318101]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9557693,40.7724987]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9188804,40.7589992]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9632802,40.7103374]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9709078,40.7554752]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8288443,40.7570378]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8904844,40.7473407]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9529706,40.7784729]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9445241,40.7148047]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9430697,40.707061]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8630787,40.7485383]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9661961,40.7582076]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9654968,40.7631836]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8357543,40.8388416]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9409741,40.8293766]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9563986,40.7716379]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9541602,40.7322978]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9527173,40.7192727]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9358751,40.8260225]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9370194,40.7966052]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.904182,40.8786132]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9096509,40.7454223]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9648213,40.7641084]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8638776,40.7496811]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9580214,40.8080987]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9612403,40.8135783]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9501596,40.7183123]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8967991,40.8342695]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8523611,40.8341965]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9493254,40.7810487]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9340495,40.848745]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9418957,40.8125464]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9620686,40.7612064]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8677319,40.8559625]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9647295,40.7168462]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9553592,40.7182967]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9050499,40.8363526]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9580382,40.76939]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9493332,40.7850477]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9441398,40.7228928]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9624765,40.709907]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9603921,40.7698984]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9578159,40.7130416]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9187779,40.8164327]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7986586,40.7060563]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9514862,40.7741274]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9410413,40.839167]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9695674,40.7899185]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9638046,40.8032047]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.962141,40.8052154]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7697829,40.7613147]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7699958,40.7613535]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9557911,40.7721858]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8255799,40.7438271]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8234317,40.8276335]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9478497,40.7750755]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.957638,40.7180244]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9542729,40.8064065]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9545014,40.7311019]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8216699,40.7869273]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9637256,40.7153808]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7613284,40.7614402]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9645521,40.7644769]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8987595,40.7096216]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9502695,40.7837636]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9617023,40.764091]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9570664,40.7747384]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9504475,40.7774069]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9705563,40.7939968]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9712345,40.7553114]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9478757,40.7787918]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9484839,40.8139905]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8751965,40.8294008]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9469074,40.7840887]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9701478,40.7972274]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9411986,40.7388224]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8274823,40.7574425]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9430554,40.7069732]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9511547,40.7141352]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9685916,40.7991241]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9391371,40.8427012]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9587963,40.7641064]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8846737,40.7474833]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9229466,40.8168033]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9646151,40.7641079]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.959829,40.7157662]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9567334,40.7666555]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8298274,40.7587429]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9448374,40.7178312]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9580899,40.7334555]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8916114,40.8310534]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9442654,40.7143451]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9120658,40.7766293]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8317815,40.7624923]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9391693,40.7165778]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7665506,40.7607263]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9468014,40.8082505]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9062139,40.8770675]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9030212,40.8781741]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9229212,40.8168582]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9692925,40.7986741]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7722175,40.7661173]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9668897,40.7642161]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8742815,40.7025407]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9360321,40.8393564]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8903552,40.7468877]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9549492,40.7286223]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7705928,40.763029]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9705231,40.7519865]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9068973,40.8771476]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9596845,40.7161202]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9521849,40.7814396]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9188828,40.8163147]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9574234,40.7293897]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9648534,40.7991148]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9511006,40.7829076]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9410462,40.8417031]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9164518,40.8159781]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8626716,40.7499431]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.957792,40.7140143]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9579742,40.7137297]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9569284,40.7777965]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9536187,40.7811163]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.951811,40.7992308]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9718474,40.7867929]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9446724,40.7794436]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9596093,40.7137345]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9413243,40.8133256]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.896506,40.8159263]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7736348,40.759132]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9375961,40.8440919]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8904238,40.7468796]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9530716,40.7222687]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9445225,40.7148058]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.969226,40.7627483]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9451385,40.7185596]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8786878,40.8259464]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.956278,40.7675584]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9502748,40.7714699]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.825739,40.7437003]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9420104,40.8425846]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9516298,40.7255454]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9170999,40.8177627]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9326341,40.7446232]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9547968,40.719617]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9700771,40.7566332]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9571743,40.7827728]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8544619,40.8981095]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8238912,40.8280766]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8626076,40.74946]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.944048,40.7146315]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8275641,40.7538174]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9055417,40.8792124]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9651448,40.7108533]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9033584,40.8782993]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9513599,40.7740148]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7791655,40.7578253]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9454903,40.7462875]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8932328,40.7271285]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8847278,40.7474778]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9711054,40.7575255]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9570947,40.7830692]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9512662,40.7835609]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8445507,40.7203839]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8442042,40.896816]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7818591,40.7289089]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9584739,40.8007458]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7704329,40.7622876]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.873382,40.7564769]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9679831,40.755838]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9536969,40.8036369]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9583384,40.7171545]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9216385,40.8170248]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.967051,40.7885729]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9575938,40.7700015]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8447811,40.7203353]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9037516,40.8344923]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9549649,40.7339347]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9454255,40.7484538]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8917676,40.8238459]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.908706,40.8739789]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8639317,40.7496757]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9410877,40.8275761]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9581398,40.7173411]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.923782,40.7466622]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8242716,40.8287088]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9710829,40.7512263]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7707698,40.7629992]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8639134,40.7498156]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9258154,40.7452445]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9568055,40.7668395]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9357001,40.8054232]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9513356,40.7825893]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.863555,40.7485608]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8754998,40.8265139]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.96427,40.8025537]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9168505,40.817886]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9465933,40.8199567]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9407124,40.8148404]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8209848,40.8257049]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9485332,40.8016173]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9573524,40.8147352]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9539785,40.8039115]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9575393,40.7143793]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7705548,40.7625486]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9532108,40.7757228]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9160973,40.8163923]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9576476,40.7654043]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9554196,40.7227706]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9228923,40.8169104]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9487171,40.7973686]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9520244,40.8137834]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8619952,40.7506313]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9598941,40.8054864]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.94193,40.8187769]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9606903,40.7143339]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9682715,40.7507068]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9670687,40.8038089]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9396406,40.8413977]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9626937,40.7667401]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9691228,40.7986274]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8551105,40.8975586]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9572018,40.717596]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9584644,40.7839796]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9408055,40.8279657]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.869664,40.749202]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9587447,40.7834376]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9547562,40.7184914]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9707526,40.788294]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9442791,40.7144313]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8447161,40.7201208]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9142157,40.8186499]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8677653,40.8551669]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8257463,40.7437408]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8941634,40.7464933]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9603477,40.765548]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7614801,40.7614131]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8973631,40.7075536]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9192801,40.8164138]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8432129,40.8404913]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8849505,40.8463048]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8282091,40.7554501]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8511221,40.7257832]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9242279,40.817839]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9700047,40.7570065]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8290375,40.7575173]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9212699,40.8170767]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9615261,40.7191895]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9078464,40.875938]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9143609,40.7647983]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8348227,40.8436309]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.921494,40.816989]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9237566,40.7467912]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8982186,40.8157796]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7744147,40.7590649]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8257562,40.7437948]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8677626,40.8552332]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9424827,40.747867]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9475151,40.796476]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9701826,40.7965935]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7697937,40.7613367]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7752499,40.7533081]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9682598,40.7593957]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9558383,40.730115]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9693759,40.7976272]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9014804,40.8746971]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9225124,40.8173987]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8912899,40.7469298]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9621285,40.7637864]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9205767,40.8167496]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8853036,40.7505031]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9576872,40.7298915]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.939561,40.8415047]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9713093,40.7954386]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8895067,40.7471147]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.862244,40.7507359]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9625218,40.7127342]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9652895,40.8008688]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9389824,40.8419408]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9494512,40.7485757]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9408525,40.8278998]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8615854,40.7498403]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9611274,40.7967202]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9508987,40.7775992]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8896008,40.8341009]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8482462,40.8763512]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8856591,40.7473827]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7997544,40.7086823]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8926021,40.7276738]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.956833,40.7187734]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9637149,40.7077254]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7173383,40.7353258]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9481777,40.7225837]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8255725,40.7437866]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9671135,40.7569618]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9661926,40.7622314]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.93932,40.8481358]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8884701,40.8360129]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9443646,40.7149534]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9517833,40.7776792]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8913079,40.7469271]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9162056,40.8164061]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9504006,40.7773877]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8626556,40.757697]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9540775,40.7665421]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.844727,40.7204215]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9078517,40.6998634]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7841067,40.7412179]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9436481,40.7146702]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9162086,40.8169249]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9130384,40.8708341]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8261825,40.751505]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8631611,40.7488403]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9483611,40.7953181]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8904128,40.7470195]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9586847,40.7170476]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9603232,40.7157856]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8675495,40.8324748]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9612277,40.7114971]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9573125,40.8094571]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9526029,40.8080747]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9443752,40.7150189]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8317257,40.7588912]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9659306,40.7620173]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9651592,40.8013326]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9577476,40.7084474]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9587024,40.7642381]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9645232,40.8019253]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9442085,40.7230153]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8934089,40.8210451]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8490168,40.8761014]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9580497,40.7321049]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9643929,40.8023864]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8746687,40.8295587]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9705109,40.7560292]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9717904,40.7868711]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9521182,40.7688001]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9674978,40.8025409]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9374995,40.7056967]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8875145,40.7471897]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9674507,40.7981878]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7708523,40.763164]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9579567,40.7217601]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8584284,40.7578621]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9376584,40.7968746]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.941221,40.7993137]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9563013,40.730071]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.874884,40.8293468]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8317458,40.8463679]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7592469,40.7211016]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8899046,40.833931]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9592987,40.7631404]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9575691,40.7130969]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9625687,40.7126573]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8251515,40.8294156]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9614259,40.7144441]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9221553,40.7396894]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9338293,40.7055164]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.949466,40.7766077]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9704368,40.796742]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9617732,40.7139117]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9212123,40.8169147]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8276724,40.754078]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7707219,40.7632928]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9706878,40.7960121]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9377075,40.7055153]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9243688,40.8178747]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9351097,40.8475846]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9565791,40.7300445]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9522698,40.718541]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8966099,40.8630064]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9445133,40.7147415]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9630141,40.7940968]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9588256,40.7167018]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9407043,40.791491]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9585109,40.7645016]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9683631,40.7922521]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8302261,40.760931]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9379681,40.8443995]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9347951,40.8477244]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9716164,40.7950215]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8531814,40.8980996]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8933187,40.7465804]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9356908,40.717597]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9655647,40.7994114]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9262159,40.7031972]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9406686,40.8396828]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9700207,40.7604975]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.826667,40.7719871]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9470531,40.8188069]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9448737,40.7180534]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9592967,40.8195611]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9623018,40.7637563]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9582429,40.7832233]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9622629,40.719651]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9581479,40.8079176]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9575587,40.7178185]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9577924,40.7140149]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9640215,40.7076733]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7728272,40.7672988]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9637903,40.8080101]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9429551,40.8368267]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8895212,40.7471147]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9393542,40.8423417]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8277588,40.7574251]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9328241,40.7450457]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9570703,40.7704352]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8479963,40.9024589]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.936782,40.8450027]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9640943,40.7096575]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9141397,40.8187294]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9705106,40.7965446]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9689185,40.7598758]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.944909,40.7553476]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.964471,40.7643032]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8266559,40.7706696]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9531195,40.8192391]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8991173,40.8259249]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9006773,40.8217158]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9631974,40.7103053]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9705057,40.756047]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8810242,40.7478693]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8498725,40.8344503]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9526401,40.7065273]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9694264,40.7980237]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.900692,40.8457678]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8952856,40.7006678]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9596093,40.7153297]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9443867,40.7150846]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9588526,40.7722858]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.935906,40.8464816]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9584068,40.7173083]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9256587,40.7028782]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9237295,40.8177096]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7727997,40.7595009]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9521008,40.7427442]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9354912,40.849259]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8510904,40.898215]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9476649,40.7069726]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8434245,40.8541278]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9551877,40.7352935]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8765084,40.8262377]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9712479,40.7534935]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8624683,40.8331364]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9717612,40.7603638]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9648377,40.8014917]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8186544,40.821285]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8544975,40.8983318]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9497881,40.7804203]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9519808,40.7139956]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9696852,40.7531308]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9465256,40.7165957]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9543972,40.7305118]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9401709,40.8302204]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9315544,40.7443972]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9149686,40.7639619]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9686372,40.7987191]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9443963,40.7151497]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9410403,40.8443435]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9618233,40.7987213]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8209085,40.8254208]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.86503,40.8794534]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9555309,40.7996138]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.968237,40.7551231]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9717769,40.7949867]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9613223,40.796959]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9519628,40.7990333]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9191571,40.816529]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8625777,40.7499513]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8109655,40.7885351]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9449357,40.7145488]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9031633,40.8439172]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9445436,40.7149367]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.966419,40.75986]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7891761,40.7398214]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9177158,40.816399]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9109389,40.7619055]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9567317,40.7749117]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9702486,40.7523652]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9488888,40.7815798]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9696232,40.7979318]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9564932,40.7299144]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9685057,40.7989465]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9374734,40.7131899]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9535301,40.7787092]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8677458,40.855631]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8626762,40.7494409]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8807355,40.8285285]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9371162,40.8394476]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8097899,40.7639321]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9533191,40.78099]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9519139,40.7818046]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9581209,40.7647484]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9093522,40.8747672]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9573377,40.7700675]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9602162,40.7621664]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8915551,40.8212108]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7619058,40.7614826]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9443006,40.7145604]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9531224,40.7716047]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.956041,40.7668475]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8479139,40.7213846]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9492397,40.7941136]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9159407,40.8173501]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.954893,40.7816521]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9578773,40.7297826]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9545365,40.7167441]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9587569,40.7169818]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9466939,40.816158]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9156431,40.7642778]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9557176,40.8066843]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9622259,40.7638633]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9630852,40.8092615]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9607485,40.7653944]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9604496,40.8128754]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9379362,40.8437024]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9403629,40.8299444]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9190855,40.7417404]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9609271,40.7995499]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7723228,40.7659474]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9679986,40.7554524]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8972948,40.7074135]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9442504,40.7142583]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9030136,40.878324]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8318816,40.7629015]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9093227,40.7611522]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8220656,40.8264361]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9675559,40.7602364]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9709191,40.795691]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8619773,40.7505928]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7704064,40.7626416]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9008259,40.8213646]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8550168,40.897413]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9538961,40.7819536]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8321148,40.8472478]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9563677,40.7738137]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9600187,40.7663932]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9136509,40.775011]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9145663,40.8702577]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9456239,40.7462162]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8924834,40.8459965]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9652145,40.8060645]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9191761,40.7450493]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9534869,40.7785335]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9515556,40.7431996]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9174888,40.8159185]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9551479,40.7730694]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8187316,40.8214167]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9586863,40.7086281]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9546716,40.7657268]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9718346,40.7949073]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9091205,40.8749481]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9404292,40.8284842]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9168206,40.8157973]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9254113,40.8157383]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8445237,40.7204269]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9163699,40.7431438]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9665935,40.7645508]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9698788,40.7894923]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7382218,40.767928]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8630993,40.7490297]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8547158,40.8977887]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.854639,40.8981536]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9543438,40.7741692]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9227182,40.8174509]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8614956,40.7496618]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.94863,40.7978379]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.939849,40.8468076]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.863172,40.7488074]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9493556,40.7936717]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8676779,40.8524493]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9532211,40.7867511]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8983169,40.8895652]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8277863,40.7576088]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8534492,40.8980451]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9676668,40.8013869]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9628345,40.7665451]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.925876,40.8659493]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9407926,40.8140527]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9375963,40.8438861]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9616307,40.8007908]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9580385,40.7693898]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9643686,40.8072253]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9599188,40.8064306]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.951677,40.8096141]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.958333,40.708503]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9595741,40.7198201]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8435247,40.8545314]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9245843,40.7456911]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9572193,40.718414]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.896475,40.7057659]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9677997,40.8006044]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9443741,40.7139076]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9407025,40.7914909]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9027165,40.8126341]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9348003,40.7428455]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9425651,40.8322922]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9506966,40.714135]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9546453,40.8058989]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9586252,40.7723186]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9675747,40.803079]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8332341,40.7157897]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7703599,40.7625455]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8451391,40.7197702]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7706143,40.7630702]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9522482,40.7184202]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8624956,40.7494955]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9624753,40.7633117]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9584276,40.713263]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9441714,40.7137835]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.842701,40.8399936]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9514482,40.7727878]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9274489,40.8657883]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9654593,40.7589375]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9568088,40.7126799]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7704186,40.7109276]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9531007,40.7783714]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8432132,40.8405208]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9450597,40.7180792]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8445913,40.7203192]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7967539,40.7085732]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9639356,40.7653241]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9460153,40.8021047]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8291746,40.7134699]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9369861,40.793704]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9647907,40.8015576]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.885623,40.7473882]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9623234,40.7127286]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8280684,40.7130236]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9408802,40.8292173]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9516495,40.7778603]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9356058,40.8466105]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9577428,40.7177582]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.961189,40.7157008]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9552451,40.7686944]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9442405,40.7131]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9180088,40.8160918]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.829752,40.7585918]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8602641,40.867033]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9674793,40.7603464]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9712426,40.7876221]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9582488,40.8082553]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8484298,40.876441]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7621085,40.7613073]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.955005,40.7301943]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9665388,40.7105307]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9692703,40.7528096]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9143675,40.81579]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9683594,40.7618475]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9671789,40.7634668]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9559317,40.717615]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9609166,40.804979]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9711509,40.7609235]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9704668,40.7975272]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9574251,40.7293903]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9696503,40.7978945]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9550975,40.7140051]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9560235,40.7300974]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9639085,40.7653612]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9572047,40.769126]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9237372,40.7416228]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9166144,40.81883]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9706838,40.78867]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9389274,40.7133887]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9136112,40.7749835]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8677876,40.8546365]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9588917,40.7149178]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8342151,40.7515541]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8627918,40.7493861]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.959421,40.7994177]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9639533,40.7670697]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9451496,40.7787714]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.958064,40.7080224]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8549691,40.8977368]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8676295,40.8540236]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.903706,40.8764047]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9466732,40.7724693]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9521778,40.7914634]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9641196,40.7734431]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.945618,40.7130165]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9576555,40.7642542]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9575409,40.714378]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9398196,40.8473401]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9544655,40.7308769]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.940757,40.8296784]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.959773,40.7667307]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9397006,40.7073887]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.966763,40.7070264]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7698918,40.7611502]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9402218,40.8301447]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8455855,40.8450429]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.89201,40.8258882]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9395736,40.712299]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9619236,40.7680781]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9354705,40.7960582]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8885823,40.8380743]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8611864,40.749063]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9561003,40.712419]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9613712,40.7685538]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8311489,40.7614155]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9483125,40.7853135]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8847709,40.7476124]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9418217,40.8228253]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9680056,40.8009931]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9143862,40.7647682]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9203636,40.8166945]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9085473,40.8737016]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9580928,40.7176018]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9168892,40.8158248]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8894382,40.7471229]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8903915,40.8608324]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9425654,40.8235942]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9407626,40.8395538]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9706026,40.7517422]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.835868,40.8435369]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9629881,40.7152608]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9383632,40.8431207]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9614242,40.7144438]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8433936,40.8404919]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9702993,40.7964414]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9613558,40.7142407]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7718025,40.7597652]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.904229,40.8643222]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9032662,40.8153558]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9443975,40.7151505]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9166331,40.8183662]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7452426,40.7662887]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9575552,40.7301947]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9340124,40.8533698]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8894887,40.7471175]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8998504,40.87647]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8810062,40.747872]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9577513,40.7292125]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9435982,40.7146749]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8676488,40.8533759]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9695385,40.7974444]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9580799,40.7610568]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.833284,40.7160231]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9514422,40.7254575]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8490882,40.8846756]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9665377,40.7105314]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9648246,40.8017937]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9108593,40.762029]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8865487,40.8395681]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.96105,40.7993798]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8895532,40.7474057]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9539435,40.7814102]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9704175,40.7622106]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9656472,40.800663]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7620322,40.7614609]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8717307,40.7342]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9483487,40.7741123]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9571004,40.7741214]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9596715,40.7137593]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9693512,40.7496202]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.882522,40.7478516]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8856643,40.8431574]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8675694,40.8555261]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8262656,40.8306064]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9538297,40.7788356]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9608627,40.7984712]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9583021,40.7174043]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8676492,40.8533751]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9582336,40.7174701]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9183267,40.8161721]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9332271,40.7030401]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8856119,40.7475281]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9440601,40.7131164]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9681431,40.7552548]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.958043,40.8080685]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.893276,40.8626315]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8968634,40.7065403]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9600706,40.8063373]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9427163,40.841295]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9532342,40.7269848]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9355476,40.8469755]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9644981,40.807461]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9540144,40.7427318]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9608299,40.8050997]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9655795,40.7568296]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8314536,40.7622778]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9536381,40.7708971]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8853322,40.7506596]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9583624,40.719128]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.958168,40.7328241]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9332872,40.7049493]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9498038,40.7979811]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9239426,40.8177647]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9706936,40.7501421]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8206234,40.8249926]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8446184,40.7202762]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9578221,40.7178049]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8675752,40.8553889]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9046675,40.84088]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9621403,40.8000965]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9376912,40.7453088]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8301717,40.7610243]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9616357,40.7111689]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9081748,40.8737672]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9578508,40.7308878]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9631699,40.7663697]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7703706,40.7625702]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9592945,40.7168749]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9547272,40.7302207]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.936986,40.8472151]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9189256,40.7412462]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7580487,40.7401203]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8291907,40.7578746]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.955951,40.705203]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8655029,40.8786513]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9602159,40.7621669]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8678133,40.8538968]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8271945,40.8319084]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.964278,40.8078566]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9145091,40.7646145]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9404828,40.8413048]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9496559,40.7403223]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9652195,40.7550426]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9484029,40.7740382]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9482516,40.8014992]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9712414,40.7957193]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8903947,40.7470223]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8292547,40.757571]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8676588,40.8530665]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9567972,40.773995]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9173868,40.8253109]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9637871,40.7075717]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9674537,40.7107704]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9521911,40.7426948]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9169881,40.8175869]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9494158,40.7809252]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7724399,40.7665432]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.971154,40.7953672]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9529367,40.7803997]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9527749,40.7806201]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8257586,40.7438083]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.964032,40.715494]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9516753,40.7920698]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9074065,40.7737134]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9497659,40.7804659]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9582882,40.7628876]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9139842,40.8188885]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9575869,40.7292776]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.957926,40.7083592]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9660146,40.7106108]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9672435,40.8010066]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7684688,40.760313]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8920187,40.8249798]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9643351,40.8024687]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.770925,40.7598485]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9603115,40.7140213]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8266365,40.7725826]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9645335,40.7689501]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9678505,40.7108144]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9165244,40.8186022]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9669315,40.8037128]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9441932,40.7139126]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8249534,40.8292033]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8746139,40.8295747]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9589556,40.7165811]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.956662,40.7709949]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9443857,40.7150843]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9590646,40.7673081]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9692834,40.7635251]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8639064,40.7496784]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9646975,40.8070552]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9168179,40.8179601]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9385869,40.7485924]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8314596,40.7584681]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9583833,40.7086705]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9012392,40.8751265]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8818689,40.7477824]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8962005,40.7037455]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9531836,40.7785636]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9656074,40.8007207]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9454402,40.7458236]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9608974,40.7639891]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8486326,40.8763754]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9710714,40.78814]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8912538,40.7469325]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8280375,40.75502]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9463737,40.7263182]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8827242,40.7375453]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9431809,40.707761]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9656905,40.8006054]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8092387,40.74063]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9661991,40.7948169]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9256475,40.7437485]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9700135,40.7968564]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9585075,40.8104484]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9393725,40.8421825]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9079617,40.8735804]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9676465,40.8018068]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9516495,40.7431612]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8628172,40.749312]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9612842,40.8003543]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9415657,40.8387336]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.966089,40.8055104]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8678586,40.8524525]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9193846,40.8165868]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9439975,40.714637]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9238018,40.8177289]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9677678,40.7923828]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9608229,40.7187501]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9341342,40.8508228]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.834803,40.7595708]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8780214,40.828748]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9260598,40.7656381]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9559462,40.7997869]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.771896,40.7651396]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9527939,40.7425386]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7717513,40.7652326]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9531505,40.7339713]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7712132,40.7642352]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9506255,40.7237504]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9686835,40.7573245]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7718529,40.7650599]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9582007,40.7180438]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9122108,40.821575]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9711179,40.7954194]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9658062,40.8004517]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9089664,40.8739791]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9583651,40.768657]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9713721,40.7874447]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8932213,40.7465885]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8433986,40.8407242]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9694471,40.7603544]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9382223,40.8002619]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9552727,40.7162778]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9427692,40.821813]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.964852,40.8017552]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.878814,40.8260673]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9203273,40.816829]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9514141,40.7739407]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9466693,40.8197975]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9424632,40.8414623]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9395515,40.8480151]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9696429,40.7603687]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7898134,40.7613722]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8066858,40.7538399]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9648946,40.8099647]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8563962,40.7289033]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9637745,40.7572819]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8799919,40.747978]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.86281,40.7493367]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.7655542,40.7607545]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9232376,40.8261307]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.942231,40.8425024]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9617989,40.7970498]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8799648,40.8411287]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9538016,40.7706733]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9592955,40.8195605]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9334045,40.705366]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.953255,40.779678]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9489301,40.7974565]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.970162,40.7524804]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.902892,40.8775824]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9428479,40.7430405]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9578942,40.7693019]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9391626,40.8424542]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9241557,40.8178197]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8917346,40.8308449]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"Sydenham Building Garage",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9489888,40.8100992]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"West Harlem Piers Park",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9619368,40.818105]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9312937,40.8590181]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9374971,40.7497211]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9503507,40.7139646]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9475375,40.7126297]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9657684,40.8113296]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.938894,40.7441571]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9498388,40.8204407]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9394144,40.8418797]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8902221,40.7460087]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8902811,40.7463557]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8903558,40.7467034]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8903679,40.7467578]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8910472,40.7464443]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8911122,40.7464718]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8914291,40.7464702]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9125205,40.7561793]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9125319,40.7561656]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9128095,40.7559888]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9146182,40.7569964]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9126928,40.7560899]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9141519,40.7568843]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9141627,40.7568711]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9143748,40.7566632]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9271769,40.7519435]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9276878,40.7522056]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9304237,40.7518897]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9178152,40.7701428]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.918034,40.7702674]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.921502,40.7665794]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9329457,40.7524707]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.918464,40.7585098]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9262691,40.8275256]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9262839,40.8275023]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9276178,40.8183385]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9276419,40.8182837]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.8961719,40.8165139]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.896243,40.8161566]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9022793,40.812763]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9023584,40.8127386]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9025516,40.8126808]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9028707,40.8125945]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9032315,40.8124879]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9034072,40.8124422]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9035949,40.8123945]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9035869,40.8121996]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9036432,40.8121854]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9036258,40.8123864]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9041052,40.8118647]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9040895,40.8118545]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.9040734,40.8118434]
-					}}
-					,
-					
-				{"type":"Feature",
-				"properties":{ 
-				
-					"name":"bicycle_parking",
-				
-				"amenity":"bicycle_parking"
-				}, 
-				"geometry":{
-					"type":"Point",
-					"coordinates":[-73.905289,40.8125562]
+					"coordinates":[-73.9470868,40.6995768]
 					}}
 					
 		]}
