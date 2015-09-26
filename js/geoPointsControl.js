@@ -29,7 +29,7 @@ map.on('click', onMapClick);
 function arts(){
 	if (geojson!=null){clearLayer();}
 	
-	$.getJSON("/js/arts_centre.js", function(data) {
+	$.getJSON("./js/arts_centre.js", function(data) {
 	     geojson = L.geoJson(data, {
 	        onEachFeature: function (feature, layer) {
 	            layer.bindPopup(feature.properties.name);
@@ -41,7 +41,7 @@ function arts(){
 
 function water(){
 	if (geojson!=null){clearLayer();}
-	$.getJSON("/js/drinking_water.js", function(data) {
+	$.getJSON("./js/drinking_water.js", function(data) {
 	     geojson = L.geoJson(data, {
 	        onEachFeature: function (feature, layer) {
 	            layer.bindPopup(feature.properties.name);
@@ -52,7 +52,7 @@ function water(){
 }
 function toilets(){
 	if (geojson!=null){clearLayer();}
-	$.getJSON("/js/toilets.js", function(data) {
+	$.getJSON("./js/toilets.js", function(data) {
 	    geojson = L.geoJson(data, {
 	        onEachFeature: function (feature, layer) {
 	            layer.bindPopup(feature.properties.name);
