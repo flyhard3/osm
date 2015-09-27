@@ -26,46 +26,12 @@ function onMapClick(e) {
 
 map.on('click', onMapClick);
 
-function arts(){
+function set_marker(amenity){
 	if (geojson!=null){clearLayer();}
 	
-	$.getJSON("./js/arts_centre.js", function(data) {
-	     geojson = L.geoJson(data, {
-	        onEachFeature: function (feature, layer) {
-	            layer.bindPopup(feature.properties.name);
-	        }
-	    });
-	    geojson.addTo(map);
-	});
-}
-
-function water(){
-	if (geojson!=null){clearLayer();}
-	$.getJSON("./js/drinking_water.js", function(data) {
-	     geojson = L.geoJson(data, {
-	        onEachFeature: function (feature, layer) {
-	            layer.bindPopup(feature.properties.name);
-	        }
-	    });
-	    geojson.addTo(map);
-	});
-}
-function toilets(){
-	if (geojson!=null){clearLayer();}
-	$.getJSON("./js/toilets.js", function(data) {
-	    geojson = L.geoJson(data, {
-	        onEachFeature: function (feature, layer) {
-	            layer.bindPopup(feature.properties.name);
-	        }
-	    });
-	    geojson.addTo(map);
-	});
-}
-
-function bicycle_parking(){
-	if (geojson!=null){clearLayer();}
+	var geoJsonFile = "./js/"+amenity+".js";
 	
-	$.getJSON("./js/bicycle_parking.js", function(data) {
+	$.getJSON(geoJsonFile, function(data) {
 	     geojson = L.geoJson(data, {
 	        onEachFeature: function (feature, layer) {
 	            layer.bindPopup(feature.properties.name);
@@ -75,51 +41,6 @@ function bicycle_parking(){
 	});
 }
 
-function bicycle_rental(){
-	if (geojson!=null){clearLayer();}
-	$.getJSON("./js/bicycle_rental.js", function(data) {
-	     geojson = L.geoJson(data, {
-	        onEachFeature: function (feature, layer) {
-	            layer.bindPopup(feature.properties.name);
-	        }
-	    });
-	    geojson.addTo(map);
-	});
-}
-function atm(){
-	if (geojson!=null){clearLayer();}
-	$.getJSON("./js/atm.js", function(data) {
-	    geojson = L.geoJson(data, {
-	        onEachFeature: function (feature, layer) {
-	            layer.bindPopup(feature.properties.name);
-	        }
-	    });
-	    geojson.addTo(map);
-	});
-}
-
-function restaurant(){
-	if (geojson!=null){clearLayer();}
-	$.getJSON("./js/restaurant.js", function(data) {
-	     geojson = L.geoJson(data, {
-	        onEachFeature: function (feature, layer) {
-	            layer.bindPopup(feature.properties.name);
-	        }
-	    });
-	    geojson.addTo(map);
-	});
-}
-function fast_food(){
-	if (geojson!=null){clearLayer();}
-	$.getJSON("./js/fast_food.js", function(data) {
-	    geojson = L.geoJson(data, {
-	        onEachFeature: function (feature, layer) {
-	            layer.bindPopup(feature.properties.name);
-	        }
-	    });
-	    geojson.addTo(map);
-	});
-}
 
 function clearLayer(){
     map.removeLayer(geojson);
