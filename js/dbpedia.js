@@ -2,8 +2,10 @@
 // $Rev: 946 $
 // Author: Hidekazu Shirayama
 
-function dbpedia(item) {
+var result = 0;
 
+function dbpedia(item) {
+	
 	dbpedia_hostname = "dbpedia.org";
 
 
@@ -39,6 +41,7 @@ function dbpedia(item) {
 			success : function(res) {
 				// 
 				if (res.boolean == true) {
+					result= 1;
 					;;;console.log("FOUND: " + item_r);
 					dbpedia_get_abstract(item_r);
 				} else {
@@ -65,6 +68,7 @@ function dbpedia(item) {
 			},
 			dataType : "json",
 			success : function(res) {
+				result = 1;
 				$("#abstract").append(
 						"<p><b>Wikipedia</b><br/><a href=\""
 								+ res.results.bindings[0].url.value + "\">"
@@ -92,15 +96,21 @@ function dbpedia(item) {
 				"default-graph-uri" : "http://" + dbpedia_hostname,
 				"query" : ask
 			},
-			//async : false,
 			dataType : "json",
 			success : function(res) {
 				// 
 				if (res.boolean == true) {
 					;;;console.log("FOUND: " + item_r);
+					result=1;
 					dbpedia_get_homepage(item_r);
 				} else {
 					;;;console.log("Homepage or Image NOT FOUND:" + item_r);
+
+					if (result){
+						$("#abstract").append(
+								"<p class='abstract-text'>No information from dbpedia was found.</p>");
+						result = 0; // reset judge.
+					}
 				}
 			},
 			error : function(res) {
@@ -160,7 +170,7 @@ function dbpedia_get_homepage(addr0) {
 		success : function(res) {
 			
 			console.log("res:", res);
-			
+			result = 1;
 				$("#homepage").append(
 						"<p><b>Homepage</b><br/><a class='homepage-link' href=\""
 								+ res.results.bindings[0].homepage.value + "\">"
