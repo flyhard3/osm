@@ -46,6 +46,8 @@ function dbpedia(item) {
 					dbpedia_get_abstract(item_r);
 				} else {
 					;;;console.log("NOT FOUND:" + item_r);
+					$("#abstract").append(
+							"<p class='abstract-text'>No abstract was found in dbpedia.</p>");
 				}
 			},
 			error : function(res) {
@@ -105,12 +107,8 @@ function dbpedia(item) {
 					dbpedia_get_homepage(item_r);
 				} else {
 					;;;console.log("Homepage or Image NOT FOUND:" + item_r);
-
-					if (result){
-						$("#abstract").append(
-								"<p class='abstract-text'>No information from dbpedia was found.</p>");
-						result = 0; // reset judge.
-					}
+					$("#homepage").append(
+					"<p class='abstract-text'>No homepage info or image was found in dbpedia.</p>");
 				}
 			},
 			error : function(res) {

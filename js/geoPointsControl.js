@@ -22,7 +22,7 @@
 		$("#modal-content").fadeIn("slow");
 	};
 	
-	$("#modal-overlay,#modal-close").off().click(function() {
+	$("#modal-overlay,#modal-close").unbind().click(function() {
 		// [#modal-overlay] or [#modal-close] processing on click (hmmm, not sure it's not effect for #modal-overlay.
 		// Fade out [#modal-overlay],[#modal-close] on click
 		$("#modal-content,#modal-overlay").fadeOut("normal", function() {
