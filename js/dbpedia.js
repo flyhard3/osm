@@ -8,7 +8,6 @@ function dbpedia(item) {
 	
 	dbpedia_hostname = "dbpedia.org";
 
-
 	$("#abstract").empty();
 	$("#homepage").empty();
 	
