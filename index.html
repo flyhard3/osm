@@ -1,16 +1,54 @@
 <html>
+<!-- 
+Clean and simple version of mapbox testing.
+ -->
 <head>
 <title>OSM TEST PAGE</title>
-<link rel="stylesheet"
-	href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
-<script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+<meta charset="UTF-8" />
+<!-- Mapbox -->
+<meta name='viewport'
+	content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.mapbox.com/mapbox.js/v2.2.2/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v2.2.2/mapbox.css'
+	rel='stylesheet' />
+<!--  script src="./geoJsonSample.js" >//</script -->
+
 <link rel="stylesheet" href="css/osm_1.css" />
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 </head>
 <body>
-	<h1>OSM TEST</h1>
+	<!-- 	<div id="abstract"></div> -->
+	<!-- 	<div id="homepage"></div> -->
+	<span class="text">LOD SIG Sample</span>
+	<button id="art_centre" onclick="set_marker('arts_centre')">Arts
+		centre</button>
+	<button id="bicycle_parking" onclick="set_marker('bicycle_parking')">Bicycle
+		parking</button>
+	<button id="bicycle_rental" onclick="set_marker('bicycle_rental')">Bicycle
+		rental</button>
+	<button id="water" onclick="set_marker('drinking_water')">Water</button>
+	<button id="toilets" onclick="set_marker('toilets')">Toilets</button>
+	<button id="atm" onclick="set_marker('atm')">ATM</button>
+	<button id="restaurant" onclick="set_marker('restaurant')">Restaurant</button>
+	<button id="fast_food" onclick="set_marker('fast_food')">Fast
+		food</button>
+	<button id="clear" onclick="clearLayer()">Clear</button>
 	<div id="map"></div>
-	<script>
-		var map = L.map('map').setView([ 51.505, -0.09 ], 13);
+	<div id="modal-content">
+
+			<a id="modal-close" class="button-link">Close(X)</a>
+
+		<div id="abstract"></div>
+		<div id="homepage"></div>
+
+	</div>
+
+	<script src="./js/geoPointsControl.js">
+		//
+	</script>
+	<script src="./js/dbpedia.js">
+		//
 	</script>
 </body>
 </html>
