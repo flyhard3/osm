@@ -13,7 +13,19 @@ function dbpedia(item) {
 	
 	// Replace space with underscore.
 	var item_r = item.nodeValue.replace(/ /g,"_");
+	
+	// Replace all first char to upper case.
+	item_r = item_r.replace(/^[a-z]/g,function(val){
+		return val.toUpperCase();
+		
+	});
+	item_r = item_r.replace(/_[a-z]/g,function(val){
+		return val.toUpperCase();
+		
+	});
 
+	console.log("item_r", item_r);
+	
 	// Check for resource's abstract in @en
 
 	if (item_r != "") {
