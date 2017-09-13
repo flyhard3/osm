@@ -6,7 +6,7 @@ var result = 0;
 
 function dbpedia(item) {
 	
-	dbpedia_hostname = "dbpedia.org";
+	dbpedia_hostname = "ja.dbpedia.org";
 
 	$("#abstract").empty();
 	$("#homepage").empty();
