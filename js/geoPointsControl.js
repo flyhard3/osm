@@ -39,7 +39,7 @@ L.mapbox.accessToken = 'pk.eyJ1IjoiZmx5aGFyZCIsImEiOiJjaWVtZGF1dXQwMDExc2trbTk4Z
 
 var map = L.mapbox.map('map', 'mapbox.streets', {
 	scrollWheelZoom : true
-}).setView([ 38.2490167,140.3270053], 13);
+}).setView([ 40.77976, -73.96614 ], 13);
 var layers = {
 	Streets : L.mapbox.tileLayer('mapbox.streets'),
 	Outdoors : L.mapbox.tileLayer('mapbox.outdoors'),
